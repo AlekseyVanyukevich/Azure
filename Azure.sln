@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure.Storage.WebApi", "Azure.Storage.WebApi\Azure.Storage.WebApi.csproj", "{2BEC4448-970A-45C5-8769-FAB11CBC2A4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure.Domain", "Azure.Domain\Azure.Domain.csproj", "{CDAF9B5D-19BC-4580-B050-C7AB682A0062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure.Services", "Azure.Services\Azure.Services.csproj", "{3652A085-691F-46E0-A73D-5B83F4EFE039}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BEC4448-970A-45C5-8769-FAB11CBC2A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BEC4448-970A-45C5-8769-FAB11CBC2A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BEC4448-970A-45C5-8769-FAB11CBC2A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BEC4448-970A-45C5-8769-FAB11CBC2A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDAF9B5D-19BC-4580-B050-C7AB682A0062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDAF9B5D-19BC-4580-B050-C7AB682A0062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDAF9B5D-19BC-4580-B050-C7AB682A0062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDAF9B5D-19BC-4580-B050-C7AB682A0062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3652A085-691F-46E0-A73D-5B83F4EFE039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3652A085-691F-46E0-A73D-5B83F4EFE039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3652A085-691F-46E0-A73D-5B83F4EFE039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3652A085-691F-46E0-A73D-5B83F4EFE039}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

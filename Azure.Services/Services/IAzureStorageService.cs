@@ -1,7 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 using Azure.Domain.ViewModels;
-using Azure.Storage.Blobs.Models;
 
 namespace Azure.Services.Services
 {
